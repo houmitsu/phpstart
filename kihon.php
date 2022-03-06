@@ -5,7 +5,12 @@
 <title>基本</title>
 </head>
 <body>
-
+    <?php
+    print "Hello World";
+    print "<p>ジャンケンしよ！</p>";
+    // print "<img src='boy.gif'>";
+    print rand();
+    ?>
 
 
 </body>
