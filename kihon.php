@@ -9,7 +9,8 @@
     print "Hello World";
     print "<p>ジャンケンしよ！</p>";
     // print "<img src='boy.gif'>";
-    print rand();
+    $a = rand();
+    print $a;
     ?>
 
 
