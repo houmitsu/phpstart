@@ -12,8 +12,10 @@
 </form>
 
 <?php
-print $_GET["a"];
+$mozi=htmlspecialchars($_GET["a"], ENT_QUOTES);
+print isset($_GET["a"])?$mozi."でござる":"何か喋って";
 ?>
+<img src="nin.gif">
 
 </body>
 </html>
