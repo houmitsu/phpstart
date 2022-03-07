@@ -5,8 +5,8 @@
 <title>受信</title>
 </head>
 <body>
-
-
-
+    <?php
+        print $_POST["a"];
+    ?>
 </body>
 </html>

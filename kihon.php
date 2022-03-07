@@ -19,7 +19,5 @@
             print "<img src='pa.gif'>";
         }
     ?>
-
-
 </body>
 </html>
